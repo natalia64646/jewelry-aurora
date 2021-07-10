@@ -1,0 +1,15 @@
+:root{
+    --fon-color: rgba(253, 237, 227, 0.87);
+}
+body{
+    background-color: var(--fon-color);
+}
+header{
+    margin: auto;
+    background-image: url(../img/women-fon.png);
+    /* background-position: center; */
+    background-size: cover;
+}
+.navbar{
+    
+}
